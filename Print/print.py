@@ -1,1 +1,1 @@
-print ("Print!")
+print ("Print")
